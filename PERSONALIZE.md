@@ -36,7 +36,7 @@ The About and Contact sections include inline SVG icon links for Email, Scholar,
 
 | Section | What to supply |
 | --- | --- |
-| Identity | Portrait and any preferred short display name (header currently uses Fadli Azis) |
+| Identity | Portrait (header uses the full name Muhammad Fadli Azis) |
 | Introduction | Target remote roles and collaboration preferences |
 | About | Optional personal story to complement your ORCID biography |
 | Selected work | Two or three real projects: question, data source, approach, your role, tools, limitations, verified outcome, and public link |
