@@ -1,19 +1,33 @@
 # Make this portfolio yours
 
-The English portfolio is a static GitHub Pages site. No build, account, API key, or installation is required. All personal details and projects are explicitly presented as examples.
+The English portfolio is a static GitHub Pages site. No build, account, API key, or installation is required. The identity, biography, affiliation, education, research interests, publications, grants, peer-review count, public email, and researcher identifiers have been populated from ORCID text supplied by the owner on 8 November 2026. Project case studies and unconfirmed tools remain explicitly presented as examples.
 
-## Information to prepare
+## Profile data already supplied
+
+Source: https://orcid.org/0000-0001-7711-299X (owner-provided full profile text; not independently fetched).
+
+- Muhammad Fadli Azis; public institutional email: fadli@atim.ac.id.
+- ORCID: 0000-0001-7711-299X; Scopus Author ID: 57218940451.
+- Lecturer in Power System Engineering (Machinery Systems Automation), Politeknik ATI Makassar, since 1 January 2019.
+- MSc Electrical Power Systems Engineering, University of Manchester, 2016–2017.
+- BEng Electrical Engineering, Institut Teknologi Sepuluh Nopember, 2011–2015.
+- Biography and all six research keywords are included.
+- Three publication records, with full contributor lists, DOI links, venues, years, record sources, and Scopus EIDs/ISSNs where supplied.
+- Two grant records, including titles, funders, and dates. No lead-investigator role, grant amount, or outcome is inferred.
+- Three reviews for Electric Power Systems Research, as recorded in ORCID. No review dates or manuscript titles were provided.
+
+## Information still to prepare
 
 | Section | What to supply |
 | --- | --- |
-| Identity | Your preferred public name, professional title, city, and portrait |
-| Introduction | Your teaching discipline, analytical focus, and target collaboration |
-| About | A short personal story connecting teaching, research, and data |
+| Identity | Portrait and any preferred short display name (header currently uses Fadli Azis) |
+| Introduction | Target remote roles and collaboration preferences |
+| About | Optional personal story to complement your ORCID biography |
 | Selected work | Two or three real projects: question, data source, approach, your role, tools, limitations, verified outcome, and public link |
 | Expertise | Tools you actually use and services you are comfortable offering |
-| Experience | Institution, role, dates, teaching focus, and specific contributions |
-| Education | Degree, field, university, graduation year, and optional thesis |
-| Contact | Public professional email and your LinkedIn, GitHub, Scholar/ORCID links |
+| Experience | Additional roles and specific contributions, if desired |
+| Education | Optional thesis or academic highlights |
+| Contact | LinkedIn and GitHub URLs; optional Google Scholar profile (email and ORCID are live) |
 | Résumé | A real PDF to add to `assets/`, then link from the résumé button |
 
 ## Editing
@@ -46,4 +60,4 @@ Public color reference: https://github.com/anthropics/skills/blob/main/skills/br
 
 Includes a pointer-responsive constellation, scroll reveals, animated chart perspectives, project dialogs, a mobile menu, and Ctrl/Cmd+K quick navigation. Escape closes dialogs. Keyboard focus and reduced-motion preferences are supported. Content remains visible without JavaScript, while interactive dialogs and charts require JavaScript.
 
-Validated in Chromium at desktop, tablet, and mobile widths. Contact delivery and résumé download await real contact details and a PDF; no backend is configured.
+Validated in Chromium at desktop, tablet, and mobile widths. Email links use mailto:fadli@atim.ac.id. ORCID and Scopus profile links are live. LinkedIn, GitHub, and résumé actions await real URLs and a PDF; no backend is configured.
