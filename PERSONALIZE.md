@@ -12,7 +12,7 @@ Source: https://orcid.org/0000-0001-7711-299X (owner-provided full profile text;
 - MSc Electrical Power Systems Engineering, University of Manchester, 2016–2017.
 - BEng Electrical Engineering, Institut Teknologi Sepuluh Nopember, 2011–2015.
 - Biography and all six research keywords are included.
-- Three publication records, with full contributor lists, DOI links, venues, years, record sources, and Scopus EIDs/ISSNs where supplied.
+- Three publication records from ORCID, with full contributor lists, DOI links, venues, years, record sources, and Scopus EIDs/ISSNs where supplied. A fourth selected publication was added from the research summary, with its missing author list and DOI explicitly noted.
 - Two grant records, including titles, funders, and dates. No lead-investigator role, grant amount, or outcome is inferred.
 - Three reviews for Electric Power Systems Research, as recorded in ORCID. No review dates or manuscript titles were provided.
 
@@ -32,6 +32,22 @@ Owner-supplied Google Scholar URL: https://scholar.google.com/citations?user=nhc
 
 The About and Contact sections include inline SVG icon links for Email, Scholar, ORCID, Scopus, and LinkedIn. Text labels remain visible, icons are decorative for assistive technology, and external profiles open in a new tab with `noopener noreferrer`. No citation counts or h-index were supplied or inferred. The unconfigured GitHub placeholder action has been removed from the contact row.
 
+## Research-summary update
+
+Additional owner-supplied private reference document, dated 10 September 2026, received 8 November 2026.
+
+Public additions: actual modeling/analysis/automation tools; teaching subjects; degree thesis titles and methods; LPDP and PBSB scholarships; ITS laboratory role; Siemens internship; five awards; Managing Editor and IASPRO roles; one additional publication (full authors and DOI still needed).
+
+Excluded: career-promotion strategy, prospective doctoral arrangements, unpublished research-series details, and speculative/private planning. Quartile labels and historical citation metrics are not published. The conflicting formal subfield labels in the reference are not treated as official public titles.
+
+The owner confirmed that the SPIRIT entries relate to the ORCID grants, so they are not counted as separate projects. A precise mapping has not been supplied. Existing two grant records are retained without adding duplicate titles or dates.
+
+Web of Science and SINTA URLs are retained here for possible future use:
+- https://www.webofscience.com/wos/author/record/QUU-7056-2026
+- https://sinta.kemdiktisaintek.go.id/authors/profile/6704390
+
+The source's Garuda URL duplicates SINTA and is not published as a separate Garuda profile.
+
 ## Information still to prepare
 
 | Section | What to supply |
@@ -40,7 +56,7 @@ The About and Contact sections include inline SVG icon links for Email, Scholar,
 | Introduction | Target remote roles and collaboration preferences |
 | About | Optional personal story to complement your ORCID biography |
 | Selected work | Two or three real projects: question, data source, approach, your role, tools, limitations, verified outcome, and public link |
-| Expertise | Tools you actually use and services you are comfortable offering |
+| Expertise | Target remote services and supporting examples (research tools are now populated) |
 | Experience | Additional roles and specific contributions, if desired |
 | Education | Optional thesis or academic highlights |
 | Contact | Optional GitHub URL (email, Scholar, LinkedIn, ORCID, and Scopus links are live) |
