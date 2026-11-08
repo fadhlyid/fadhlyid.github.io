@@ -16,6 +16,16 @@ Source: https://orcid.org/0000-0001-7711-299X (owner-provided full profile text;
 - Two grant records, including titles, funders, and dates. No lead-investigator role, grant amount, or outcome is inferred.
 - Three reviews for Electric Power Systems Research, as recorded in ORCID. No review dates or manuscript titles were provided.
 
+## LinkedIn update
+
+Owner-provided profile text, 8 November 2026: https://www.linkedin.com/in/muhammadfadliazis/
+
+- Public headline: Electrical Engineering Lecturer & Researcher.
+- Ministry of Industry academic appointments: Lecturer (January 2019–April 2021); Assistant Professor (Asisten Ahli) (May 2021–August 2023); Assistant Professor (Lektor) (September 2023–present).
+- Displayed role names follow the supplied LinkedIn wording. The parent employment entry retains the institution and discipline from ORCID; these are not treated as separate simultaneous jobs.
+- Actual date ranges are used; copied relative durations are not preserved or recomputed.
+- LinkedIn links are active. Private dashboard statistics, notifications, suggestions, and messaging content are excluded.
+
 ## Information still to prepare
 
 | Section | What to supply |
@@ -27,7 +37,7 @@ Source: https://orcid.org/0000-0001-7711-299X (owner-provided full profile text;
 | Expertise | Tools you actually use and services you are comfortable offering |
 | Experience | Additional roles and specific contributions, if desired |
 | Education | Optional thesis or academic highlights |
-| Contact | LinkedIn and GitHub URLs; optional Google Scholar profile (email and ORCID are live) |
+| Contact | GitHub URL; optional Google Scholar profile (email, LinkedIn, and ORCID are live) |
 | Résumé | A real PDF to add to `assets/`, then link from the résumé button |
 
 ## Editing
@@ -60,4 +70,4 @@ Public color reference: https://github.com/anthropics/skills/blob/main/skills/br
 
 Includes a pointer-responsive constellation, scroll reveals, animated chart perspectives, project dialogs, a mobile menu, and Ctrl/Cmd+K quick navigation. Escape closes dialogs. Keyboard focus and reduced-motion preferences are supported. Content remains visible without JavaScript, while interactive dialogs and charts require JavaScript.
 
-Validated in Chromium at desktop, tablet, and mobile widths. Email links use mailto:fadli@atim.ac.id. ORCID and Scopus profile links are live. LinkedIn, GitHub, and résumé actions await real URLs and a PDF; no backend is configured.
+Validated in Chromium at desktop, tablet, and mobile widths. Email links use mailto:fadli@atim.ac.id. ORCID and Scopus profile links are live. GitHub and résumé actions await a real URL and a PDF; no backend is configured.
