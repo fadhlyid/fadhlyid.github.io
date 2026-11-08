@@ -26,6 +26,12 @@ Owner-provided profile text, 8 November 2026: https://www.linkedin.com/in/muhamm
 - Actual date ranges are used; copied relative durations are not preserved or recomputed.
 - LinkedIn links are active. Private dashboard statistics, notifications, suggestions, and messaging content are excluded.
 
+## Scholar and profile links
+
+Owner-supplied Google Scholar URL: https://scholar.google.com/citations?user=nhcvKaEAAAAJ&hl=en
+
+The About and Contact sections include inline SVG icon links for Email, Scholar, ORCID, Scopus, and LinkedIn. Text labels remain visible, icons are decorative for assistive technology, and external profiles open in a new tab with `noopener noreferrer`. No citation counts or h-index were supplied or inferred. The unconfigured GitHub placeholder action has been removed from the contact row.
+
 ## Information still to prepare
 
 | Section | What to supply |
@@ -37,7 +43,7 @@ Owner-provided profile text, 8 November 2026: https://www.linkedin.com/in/muhamm
 | Expertise | Tools you actually use and services you are comfortable offering |
 | Experience | Additional roles and specific contributions, if desired |
 | Education | Optional thesis or academic highlights |
-| Contact | GitHub URL; optional Google Scholar profile (email, LinkedIn, and ORCID are live) |
+| Contact | Optional GitHub URL (email, Scholar, LinkedIn, ORCID, and Scopus links are live) |
 | Résumé | A real PDF to add to `assets/`, then link from the résumé button |
 
 ## Editing
