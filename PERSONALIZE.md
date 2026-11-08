@@ -40,7 +40,7 @@ Use the existing checkout; cloud tasks are already isolated and do not need a ne
 
 Claude-inspired cream, charcoal, and terracotta. Primary color tokens follow Anthropic's public brand reference: light `#faf9f5`, dark `#141413`, light gray `#e8e6dc`, and orange `#d97757`.
 
-Typography uses Georgia and system sans as explicit fallbacks. These are not Claude's proprietary fonts, and this site does not claim to reproduce the complete official Claude interface design system. Exact typography requires appropriate original font files and permission to use them. No external runtime dependencies or analytics are used.
+Typography uses locally hosted Source Serif 4 (headings and editorial text) and Inter (body and navigation), with Georgia and system sans fallbacks. Both fonts are open-license alternatives chosen for a similar feel, not Claude's proprietary typefaces. OFL license notices are included in `assets/fonts/`. No external runtime dependencies or analytics are used.
 
 Public color reference: https://github.com/anthropics/skills/blob/main/skills/brand-guidelines/SKILL.md (the public corporate typography guidance is separate from Claude product typography).
 
