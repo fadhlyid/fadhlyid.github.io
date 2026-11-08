@@ -1,6 +1,6 @@
 # Make this portfolio yours
 
-The English portfolio is a static GitHub Pages site. No build, account, API key, or installation is required. The identity, biography, affiliation, education, research interests, publications, grants, peer-review count, public email, and researcher identifiers have been populated from ORCID text supplied by the owner on 8 November 2026. Project case studies and unconfirmed tools remain explicitly presented as examples.
+The English portfolio is a static GitHub Pages site. No build, account, API key, or installation is required. Identity, biography, affiliation, education, research, public email, and researcher identifiers have been populated from owner-supplied ORCID, LinkedIn, research summary, and CV. Real project records use illustrative artwork. Missing publication DOI details are labeled.
 
 ## Profile data already supplied
 
@@ -48,6 +48,14 @@ Web of Science and SINTA URLs are retained here for possible future use:
 
 The source's Garuda URL duplicates SINTA and is not published as a separate Garuda profile.
 
+## CV update
+
+Owner-supplied CV received 8 November 2026. Extracted only existing professional experience and public-facing accomplishments. Excluded doctoral application/research plans, submitted manuscript, private phone numbers, and referee contact details. The original PDF is not copied into the public repository and must not be used as the public résumé download.
+
+Added five published-work records (2025 smart factory, 2024 light monitoring, 2023 economic dispatch, 2023 mist sprayer, 2015 dynamic dispatch). DOI links have not been supplied. Existing ORCID author records are retained where the CV's abbreviated lists differ. Selected publications now total nine, including the prior Android record.
+
+Added laboratory teaching/measurement responsibilities, Siemens relay protection programming, and student project supervision. The two placeholder projects are now Power Optima Simulator and iMeters, with CV-based recognition and explicitly illustrative artwork. No deployment or quantitative-impact claims are inferred.
+
 ## Information still to prepare
 
 | Section | What to supply |
@@ -55,7 +63,7 @@ The source's Garuda URL duplicates SINTA and is not published as a separate Garu
 | Identity | Portrait (header uses the full name Muhammad Fadli Azis) |
 | Introduction | Target remote roles and collaboration preferences |
 | About | Optional personal story to complement your ORCID biography |
-| Selected work | Two or three real projects: question, data source, approach, your role, tools, limitations, verified outcome, and public link |
+| Selected work | Original screenshots, repositories, individual implementation details, and evidence for Power Optima Simulator and iMeters |
 | Expertise | Target remote services and supporting examples (research tools are now populated) |
 | Experience | Additional roles and specific contributions, if desired |
 | Education | Optional thesis or academic highlights |
@@ -67,7 +75,7 @@ The source's Garuda URL duplicates SINTA and is not published as a separate Garu
 - `index.html` contains the markup, design tokens in `:root`, and JavaScript.
 - Search for `[`, `Your Name`, `your name`, `Sample`, `Template`, and `PLACEHOLDER` to locate example content. Update the title and description too.
 - Update the `studies` object for case study dialog contents.
-- Contact buttons intentionally open setup explanations. Replace the relevant buttons with real links (`mailto:` for email, actual profile URLs, and a résumé download) when the information is ready; remove their `data-contact` attributes and explanatory handlers as appropriate.
+- Unconfigured résumé actions intentionally open setup explanations. Replace the relevant buttons with real links (`mailto:` for email, actual profile URLs, and a résumé download) when the information is ready; remove their `data-contact` attributes and explanatory handlers as appropriate.
 - Replace the illustrated portrait with your photo and meaningful alternative text.
 - Keep demo chart data labeled as demo data. It is an interaction demonstration, not a claim about your results.
 - Remove template notices only once the associated content has been personalized.
